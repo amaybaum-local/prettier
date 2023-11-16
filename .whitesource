@@ -1,6 +1,3 @@
 {
-  "settingsInheritedFrom": "therealjeffbeck/whitesource-config@main",
- "scanSettings": {
-    "enableReachability": true
-  }
+  "settingsInheritedFrom": "amaybaum-dev/whitesource-config@main"
 }
